@@ -1,2 +1,12 @@
-# cloud-studyjam-entry
-Google Cloud StudyJam
+# [Google Cloud Studyjam(k8s in GCP)](https://www.qwiklabs.com/quests/29)
+
+## 공지
+- 2019년 1월 27일까지 완료 해야 수료로 인정 됨
+- 화요일, 목요일 10시 30분에 Google Meet을 이용해 1시간 30분간 스터디 진행
+- 2019년 24일 목요일까지 진행
+
+## 진행방식
+- 온라인(가능하면 웹캠 키고 진행)
+- 스프린트 목표 설정 후 각자 정해진 분량을 진행하고 모여서 질문 작성하기
+  - 질문은 Github Issue로 작성
+  - 참여자는 스프린트마다 최소 1개의 질문 작성하기
